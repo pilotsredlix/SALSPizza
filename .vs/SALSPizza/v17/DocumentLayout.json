@@ -1,0 +1,522 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Gracela\\Projects\\SALSPizza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\specialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:specialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\license-code||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:license-code||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\license||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:license||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\code_of_conduct.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:code_of_conduct.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\model\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:model\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\model\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:model\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\model\\pizzatopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:model\\pizzatopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\model\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:model\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\model\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:model\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\model\\orderwithstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:model\\orderwithstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\pages\\checkout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:pages\\checkout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Gracela\\Projects\\SALSPizza\\obj\\Debug\\net5.0\\RazorDeclaration\\Pages\\Index.razor.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net5.0\\RazorDeclaration\\Pages\\Index.razor.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|c:\\gracela\\projects\\salspizza\\shared\\orderreview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37856652-AB27-4D03-8BE6-F0CAC3858F51}|SALSPizza.csproj|solutionrelative:shared\\orderreview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:32:40.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\SeedData.cs",
+              "RelativeDocumentMoniker": "SeedData.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\SeedData.cs",
+              "RelativeToolTip": "SeedData.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:32:13.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-21T16:32:05.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:32:01.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzaStoreContext.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\PizzaStoreContext.cs",
+              "RelativeDocumentMoniker": "PizzaStoreContext.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\PizzaStoreContext.cs",
+              "RelativeToolTip": "PizzaStoreContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:31:51.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LICENSE-CODE",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\LICENSE-CODE",
+              "RelativeDocumentMoniker": "LICENSE-CODE",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\LICENSE-CODE",
+              "RelativeToolTip": "LICENSE-CODE",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-21T16:31:16.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LICENSE",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\LICENSE",
+              "RelativeDocumentMoniker": "LICENSE",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\LICENSE",
+              "RelativeToolTip": "LICENSE",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-21T16:31:13.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CODE_OF_CONDUCT.md",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\CODE_OF_CONDUCT.md",
+              "RelativeDocumentMoniker": "CODE_OF_CONDUCT.md",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\CODE_OF_CONDUCT.md",
+              "RelativeToolTip": "CODE_OF_CONDUCT.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-21T16:31:10.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpecialsController.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\SpecialsController.cs",
+              "RelativeDocumentMoniker": "SpecialsController.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\SpecialsController.cs",
+              "RelativeToolTip": "SpecialsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:01:27.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T16:31:06.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T16:31:04.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\Model\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Model\\UserInfo.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\Model\\UserInfo.cs",
+              "RelativeToolTip": "Model\\UserInfo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:30:57.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderController.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\OrderController.cs",
+              "RelativeToolTip": "OrderController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:01:18.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderState.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\OrderState.cs",
+              "RelativeDocumentMoniker": "OrderState.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\OrderState.cs",
+              "RelativeToolTip": "OrderState.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:01:13.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Topping.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\Model\\Topping.cs",
+              "RelativeDocumentMoniker": "Model\\Topping.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\Model\\Topping.cs",
+              "RelativeToolTip": "Model\\Topping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:30:55.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PizzaTopping.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\Model\\PizzaTopping.cs",
+              "RelativeDocumentMoniker": "Model\\PizzaTopping.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\Model\\PizzaTopping.cs",
+              "RelativeToolTip": "Model\\PizzaTopping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:30:53.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\Model\\Pizza.cs",
+              "RelativeDocumentMoniker": "Model\\Pizza.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\Model\\Pizza.cs",
+              "RelativeToolTip": "Model\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:30:36.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:30:17.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\Model\\Address.cs",
+              "RelativeDocumentMoniker": "Model\\Address.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\Model\\Address.cs",
+              "RelativeToolTip": "Model\\Address.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:30:09.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T16:13:33.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PizzaSpecial.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\Model\\PizzaSpecial.cs",
+              "RelativeDocumentMoniker": "Model\\PizzaSpecial.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\Model\\PizzaSpecial.cs",
+              "RelativeToolTip": "Model\\PizzaSpecial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:05:43.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T16:02:01.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwC8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T16:05:42.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Checkout.razor",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\Pages\\Checkout.razor",
+              "RelativeDocumentMoniker": "Pages\\Checkout.razor",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\Pages\\Checkout.razor",
+              "RelativeToolTip": "Pages\\Checkout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T16:05:29.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderWithStatus.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\Model\\OrderWithStatus.cs",
+              "RelativeDocumentMoniker": "Model\\OrderWithStatus.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\Model\\OrderWithStatus.cs",
+              "RelativeToolTip": "Model\\OrderWithStatus.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:04:43.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T16:29:15.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.razor.g.cs",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\obj\\Debug\\net5.0\\RazorDeclaration\\Pages\\Index.razor.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net5.0\\RazorDeclaration\\Pages\\Index.razor.g.cs",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\obj\\Debug\\net5.0\\RazorDeclaration\\Pages\\Index.razor.g.cs",
+              "RelativeToolTip": "obj\\Debug\\net5.0\\RazorDeclaration\\Pages\\Index.razor.g.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAqwFQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:01:58.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderReview.razor",
+              "DocumentMoniker": "C:\\Gracela\\Projects\\SALSPizza\\Shared\\OrderReview.razor",
+              "RelativeDocumentMoniker": "Shared\\OrderReview.razor",
+              "ToolTip": "C:\\Gracela\\Projects\\SALSPizza\\Shared\\OrderReview.razor",
+              "RelativeToolTip": "Shared\\OrderReview.razor",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T16:01:42.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 962,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
