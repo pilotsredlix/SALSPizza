@@ -73,10 +73,10 @@ using SALSPizza.Shared
 #line 11 "C:\Gracela\Projects\SALSPizza\_Imports.razor"
 using System.Net.Http.Json
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     #nullable restore
     public partial class ConfigurePizzaDialog : global::Microsoft.AspNetCore.Components.ComponentBase
     #nullable disable
@@ -91,10 +91,9 @@ using System.Net.Http.Json
             __builder.OpenElement(4, "div");
             __builder.AddAttribute(5, "class", "dialog-title");
             __builder.OpenElement(6, "h2");
-            __builder.AddContent(7, 
 #nullable restore
 #line 7 "C:\Gracela\Projects\SALSPizza\Shared\ConfigurePizzaDialog.razor"
-                 Pizza.Special.Name
+                 __builder.AddContent(7, Pizza.Special.Name
 
 #line default
 #line hidden
@@ -102,10 +101,9 @@ using System.Net.Http.Json
             );
             __builder.CloseElement();
             __builder.AddMarkupContent(8, "\r\n            ");
-            __builder.AddContent(9, 
 #nullable restore
 #line 8 "C:\Gracela\Projects\SALSPizza\Shared\ConfigurePizzaDialog.razor"
-             Pizza.Special.Description
+             __builder.AddContent(9, Pizza.Special.Description
 
 #line default
 #line hidden
@@ -164,20 +162,18 @@ using System.Net.Http.Json
             __builder.AddMarkupContent(23, "\r\n                ");
             __builder.OpenElement(24, "span");
             __builder.AddAttribute(25, "class", "size-label");
-            __builder.AddContent(26, 
 #nullable restore
 #line 15 "C:\Gracela\Projects\SALSPizza\Shared\ConfigurePizzaDialog.razor"
-                      Pizza.Size
+                      __builder.AddContent(26, Pizza.Size
 
 #line default
 #line hidden
 #nullable disable
             );
             __builder.AddMarkupContent(27, "\" (£");
-            __builder.AddContent(28, 
 #nullable restore
 #line 15 "C:\Gracela\Projects\SALSPizza\Shared\ConfigurePizzaDialog.razor"
-                                       Pizza.GetFormattedTotalPrice()
+                                       __builder.AddContent(28, Pizza.GetFormattedTotalPrice()
 
 #line default
 #line hidden
@@ -209,10 +205,9 @@ using System.Net.Http.Json
             __builder.AddMarkupContent(40, "\r\n                Price: ");
             __builder.OpenElement(41, "span");
             __builder.AddAttribute(42, "class", "price");
-            __builder.AddContent(43, 
 #nullable restore
 #line 23 "C:\Gracela\Projects\SALSPizza\Shared\ConfigurePizzaDialog.razor"
-                                             Pizza.GetFormattedTotalPrice()
+                                             __builder.AddContent(43, Pizza.GetFormattedTotalPrice()
 
 #line default
 #line hidden

@@ -73,10 +73,10 @@ using SALSPizza.Shared
 #line 11 "C:\Gracela\Projects\SALSPizza\_Imports.razor"
 using System.Net.Http.Json
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     #nullable restore
     public partial class OrderReview : global::Microsoft.AspNetCore.Components.ComponentBase
     #nullable disable
@@ -95,30 +95,27 @@ using System.Net.Http.Json
 
             __builder.OpenElement(0, "p");
             __builder.OpenElement(1, "strong");
-            __builder.AddContent(2, 
 #nullable restore
 #line 5 "C:\Gracela\Projects\SALSPizza\Shared\OrderReview.razor"
-              pizza.Size
+              __builder.AddContent(2, pizza.Size
 
 #line default
 #line hidden
 #nullable disable
             );
             __builder.AddMarkupContent(3, "\"\r\n            ");
-            __builder.AddContent(4, 
 #nullable restore
 #line 6 "C:\Gracela\Projects\SALSPizza\Shared\OrderReview.razor"
-             pizza.Special.Name
+             __builder.AddContent(4, pizza.Special.Name
 
 #line default
 #line hidden
 #nullable disable
             );
             __builder.AddMarkupContent(5, "\r\n            (£");
-            __builder.AddContent(6, 
 #nullable restore
 #line 7 "C:\Gracela\Projects\SALSPizza\Shared\OrderReview.razor"
-               pizza.GetFormattedTotalPrice()
+               __builder.AddContent(6, pizza.GetFormattedTotalPrice()
 
 #line default
 #line hidden
@@ -138,10 +135,9 @@ using System.Net.Http.Json
             __builder.OpenElement(8, "p");
             __builder.OpenElement(9, "strong");
             __builder.AddMarkupContent(10, "\r\n        Total price:\r\n        £");
-            __builder.AddContent(11, 
 #nullable restore
 #line 15 "C:\Gracela\Projects\SALSPizza\Shared\OrderReview.razor"
-          Order.GetFormattedTotalPrice()
+          __builder.AddContent(11, Order.GetFormattedTotalPrice()
 
 #line default
 #line hidden

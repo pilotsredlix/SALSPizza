@@ -76,10 +76,10 @@ using SALSPizza.Shared
 #line 11 "C:\Gracela\Projects\SALSPizza\_Imports.razor"
 using System.Net.Http.Json
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Components.RouteAttribute(
     // language=Route,Component
 #nullable restore

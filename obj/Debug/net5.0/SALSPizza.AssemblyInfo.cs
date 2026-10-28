@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SALSPizza")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66cc86a77de671aaf04bcffc3f59933aa2c08435")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d64db1204a536289763ad4766838146361f205d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SALSPizza")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SALSPizza")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -73,10 +73,10 @@ using SALSPizza.Shared
 #line 11 "C:\Gracela\Projects\SALSPizza\_Imports.razor"
 using System.Net.Http.Json
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Components.RouteAttribute(
     // language=Route,Component
 #nullable restore
@@ -96,6 +96,14 @@ using System.Net.Http.Json
         {
             __builder.OpenElement(0, "div");
             __builder.AddAttribute(1, "class", "main");
+#nullable restore
+#line 6 "C:\Gracela\Projects\SALSPizza\Pages\MyOrders.razor"
+    
+
+#line default
+#line hidden
+#nullable disable
+
 #nullable restore
 #line 6 "C:\Gracela\Projects\SALSPizza\Pages\MyOrders.razor"
      if (ordersWithStatus == null)
@@ -136,6 +144,14 @@ using System.Net.Http.Json
                 __builder2.AddAttribute(8, "class", "track-order");
 #nullable restore
 #line 19 "C:\Gracela\Projects\SALSPizza\Pages\MyOrders.razor"
+            
+
+#line default
+#line hidden
+#nullable disable
+
+#nullable restore
+#line 19 "C:\Gracela\Projects\SALSPizza\Pages\MyOrders.razor"
              foreach (var item in ordersWithStatus)
             {
 
@@ -158,10 +174,9 @@ using System.Net.Http.Json
                     __builder3.AddAttribute(13, "class", "track-order-title");
                     __builder3.OpenElement(14, "h2");
                     __builder3.AddContent(15, "Order placed: ");
-                    __builder3.AddContent(16, 
 #nullable restore
 #line 23 "C:\Gracela\Projects\SALSPizza\Pages\MyOrders.razor"
-                                       item.Order.CreatedTime.ToShortTimeString()
+                                       __builder3.AddContent(16, item.Order.CreatedTime.ToShortTimeString()
 
 #line default
 #line hidden
@@ -173,10 +188,9 @@ using System.Net.Http.Json
                     __builder3.AddAttribute(19, "class", "ml-auto mb-0");
                     __builder3.AddMarkupContent(20, "\r\n                    Items: ");
                     __builder3.OpenElement(21, "strong");
-                    __builder3.AddContent(22, 
 #nullable restore
 #line 25 "C:\Gracela\Projects\SALSPizza\Pages\MyOrders.razor"
-                                    item.Order.Pizzas.Count()
+                                    __builder3.AddContent(22, item.Order.Pizzas.Count()
 
 #line default
 #line hidden
@@ -186,16 +200,23 @@ using System.Net.Http.Json
                     __builder3.AddMarkupContent(23, " \r\n                    Total price: ");
                     __builder3.OpenElement(24, "strong");
                     __builder3.AddMarkupContent(25, "£");
-                    __builder3.AddContent(26, 
 #nullable restore
 #line 26 "C:\Gracela\Projects\SALSPizza\Pages\MyOrders.razor"
-                                           item.Order.GetFormattedTotalPrice()
+                                           __builder3.AddContent(26, item.Order.GetFormattedTotalPrice()
 
 #line default
 #line hidden
 #nullable disable
                     );
                     __builder3.CloseElement();
+#nullable restore
+#line 27 "C:\Gracela\Projects\SALSPizza\Pages\MyOrders.razor"
+                    
+
+#line default
+#line hidden
+#nullable disable
+
 #nullable restore
 #line 27 "C:\Gracela\Projects\SALSPizza\Pages\MyOrders.razor"
                      if (@item.StatusText != "Delivered")
@@ -235,6 +256,14 @@ using System.Net.Http.Json
                     __builder3.AddAttribute(35, "class", "track-order-details");
 #nullable restore
 #line 37 "C:\Gracela\Projects\SALSPizza\Pages\MyOrders.razor"
+                    
+
+#line default
+#line hidden
+#nullable disable
+
+#nullable restore
+#line 37 "C:\Gracela\Projects\SALSPizza\Pages\MyOrders.razor"
                      foreach (var pizza in item.Order.Pizzas) 
                     {
 
@@ -244,30 +273,27 @@ using System.Net.Http.Json
 
                     __builder3.OpenElement(36, "p");
                     __builder3.OpenElement(37, "strong");
-                    __builder3.AddContent(38, 
 #nullable restore
 #line 41 "C:\Gracela\Projects\SALSPizza\Pages\MyOrders.razor"
-                              pizza.Size
+                              __builder3.AddContent(38, pizza.Size
 
 #line default
 #line hidden
 #nullable disable
                     );
                     __builder3.AddMarkupContent(39, "\"\r\n                            ");
-                    __builder3.AddContent(40, 
 #nullable restore
 #line 42 "C:\Gracela\Projects\SALSPizza\Pages\MyOrders.razor"
-                             pizza.Special.Name
+                             __builder3.AddContent(40, pizza.Special.Name
 
 #line default
 #line hidden
 #nullable disable
                     );
                     __builder3.AddMarkupContent(41, "\r\n                            (£");
-                    __builder3.AddContent(42, 
 #nullable restore
 #line 43 "C:\Gracela\Projects\SALSPizza\Pages\MyOrders.razor"
-                               pizza.GetFormattedTotalPrice()
+                               __builder3.AddContent(42, pizza.GetFormattedTotalPrice()
 
 #line default
 #line hidden

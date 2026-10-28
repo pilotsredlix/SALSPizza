@@ -26,7 +26,7 @@ namespace SALSPizza.Pages
     )]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"38854342981089269e70be12804649329712d1c2d1318d341cac4810c4d17d2e", @"/Pages/_Host.cshtml")]
     #nullable restore
-    public class Pages__Host : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
+    internal sealed class Pages__Host : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
     #nullable disable
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("include", "Staging,Production", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -59,7 +59,7 @@ namespace SALSPizza.Pages
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "38854342981089269e70be12804649329712d1c2d1318d341cac4810c4d17d2e4035", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "38854342981089269e70be12804649329712d1c2d1318d341cac4810c4d17d2e4044", async() => {
                 WriteLiteral(@"
     <meta charset=""utf-8"" />
     <meta name=""viewport"" content=""width=device-width, initial-scale=1, shrink-to-fit=no"" />
@@ -81,9 +81,9 @@ namespace SALSPizza.Pages
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "38854342981089269e70be12804649329712d1c2d1318d341cac4810c4d17d2e5392", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "38854342981089269e70be12804649329712d1c2d1318d341cac4810c4d17d2e5401", async() => {
                 WriteLiteral("\r\n\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("component", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "38854342981089269e70be12804649329712d1c2d1318d341cac4810c4d17d2e5682", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("component", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "38854342981089269e70be12804649329712d1c2d1318d341cac4810c4d17d2e5691", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_ComponentTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ComponentTagHelper>();
@@ -116,7 +116,7 @@ namespace SALSPizza.Pages
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n\r\n    <div id=\"blazor-error-ui\">\r\n        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "38854342981089269e70be12804649329712d1c2d1318d341cac4810c4d17d2e7828", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "38854342981089269e70be12804649329712d1c2d1318d341cac4810c4d17d2e7837", async() => {
                     WriteLiteral("\r\n            An error has occurred. This application may no longer respond until reloaded.\r\n        ");
                 }
                 );
@@ -132,7 +132,7 @@ namespace SALSPizza.Pages
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "38854342981089269e70be12804649329712d1c2d1318d341cac4810c4d17d2e9209", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "38854342981089269e70be12804649329712d1c2d1318d341cac4810c4d17d2e9218", async() => {
                     WriteLiteral("\r\n            An unhandled exception has occurred. See browser dev tools for details.\r\n        ");
                 }
                 );

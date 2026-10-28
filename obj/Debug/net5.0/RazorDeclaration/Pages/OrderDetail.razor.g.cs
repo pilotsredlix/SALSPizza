@@ -76,10 +76,10 @@ using SALSPizza.Shared
 #line 11 "C:\Gracela\Projects\SALSPizza\_Imports.razor"
 using System.Net.Http.Json
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Components.RouteAttribute(
     // language=Route,Component
 #nullable restore
@@ -91,7 +91,15 @@ using System.Net.Http.Json
 #nullable disable
     )]
     #nullable restore
-    public partial class OrderDetail : global::Microsoft.AspNetCore.Components.ComponentBase, IDisposable
+    public partial class OrderDetail : global::Microsoft.AspNetCore.Components.ComponentBase, 
+#nullable restore
+#line 5 "C:\Gracela\Projects\SALSPizza\Pages\OrderDetail.razor"
+            IDisposable
+
+#line default
+#line hidden
+#nullable disable
+
     #nullable disable
     {
         #pragma warning disable 1998

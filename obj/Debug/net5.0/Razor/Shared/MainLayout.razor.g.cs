@@ -73,12 +73,20 @@ using SALSPizza.Shared
 #line 11 "C:\Gracela\Projects\SALSPizza\_Imports.razor"
 using System.Net.Http.Json
 
+#nullable disable
+    ;
+    #line default
+    #line hidden
+    #nullable restore
+    public partial class MainLayout : 
+#nullable restore
+#line 1 "C:\Gracela\Projects\SALSPizza\Shared\MainLayout.razor"
+          LayoutComponentBase
+
 #line default
 #line hidden
 #nullable disable
-    ;
-    #nullable restore
-    public partial class MainLayout : LayoutComponentBase
+
     #nullable disable
     {
         #pragma warning disable 1998
@@ -121,10 +129,9 @@ using System.Net.Http.Json
             __builder.AddMarkupContent(19, "\r\n\r\n  ");
             __builder.OpenElement(20, "div");
             __builder.AddAttribute(21, "class", "content");
-            __builder.AddContent(22, 
 #nullable restore
 #line 21 "C:\Gracela\Projects\SALSPizza\Shared\MainLayout.razor"
-     Body
+     __builder.AddContent(22, Body
 
 #line default
 #line hidden
@@ -135,10 +142,9 @@ using System.Net.Http.Json
             __builder.OpenElement(24, "footer");
             __builder.AddAttribute(25, "class", "p-2");
             __builder.AddMarkupContent(26, "\r\n        &copy; SALS Pizza ");
-            __builder.AddContent(27, 
 #nullable restore
 #line 25 "C:\Gracela\Projects\SALSPizza\Shared\MainLayout.razor"
-                           DateTime.UtcNow.Year
+                           __builder.AddContent(27, DateTime.UtcNow.Year
 
 #line default
 #line hidden

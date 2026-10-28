@@ -76,11 +76,19 @@ using SALSPizza.Shared
 #line 11 "C:\Gracela\Projects\SALSPizza\_Imports.razor"
 using System.Net.Http.Json
 
+#nullable disable
+    ;
+    #line default
+    #line hidden
+    [global::Microsoft.AspNetCore.Components.LayoutAttribute(typeof(
+#nullable restore
+#line 2 "C:\Gracela\Projects\SALSPizza\Pages\Index.razor"
+        MainLayout
+
 #line default
 #line hidden
 #nullable disable
-    ;
-    [global::Microsoft.AspNetCore.Components.LayoutAttribute(typeof(MainLayout))]
+    ))]
     [global::Microsoft.AspNetCore.Components.RouteAttribute(
     // language=Route,Component
 #nullable restore

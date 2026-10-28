@@ -73,10 +73,10 @@ using SALSPizza.Shared
 #line 11 "C:\Gracela\Projects\SALSPizza\_Imports.razor"
 using System.Net.Http.Json
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     #nullable restore
     public partial class TabContainer : global::Microsoft.AspNetCore.Components.ComponentBase
     #nullable disable
@@ -97,6 +97,14 @@ using System.Net.Http.Json
                 __builder2.AddAttribute(4, "class", "row align-items-start");
                 __builder2.OpenElement(5, "ul");
                 __builder2.AddAttribute(6, "class", "nav nav-pills flex-column");
+#nullable restore
+#line 4 "C:\Gracela\Projects\SALSPizza\Shared\TabContainer.razor"
+        
+
+#line default
+#line hidden
+#nullable disable
+
 #nullable restore
 #line 4 "C:\Gracela\Projects\SALSPizza\Shared\TabContainer.razor"
          foreach (TabPage tabPage in Items)
@@ -127,10 +135,9 @@ using System.Net.Http.Json
 #line hidden
 #nullable disable
                 ));
-                __builder2.AddContent(12, 
 #nullable restore
 #line 6 "C:\Gracela\Projects\SALSPizza\Shared\TabContainer.razor"
-                                                                                                                         tabPage.Title
+                                                                                                                         __builder2.AddContent(12, tabPage.Title
 
 #line default
 #line hidden
@@ -150,10 +157,9 @@ using System.Net.Http.Json
                 __builder2.AddMarkupContent(13, "\r\n\r\n    ");
                 __builder2.OpenElement(14, "div");
                 __builder2.AddAttribute(15, "class", "flex-fill px-4");
-                __builder2.AddContent(16, 
 #nullable restore
 #line 11 "C:\Gracela\Projects\SALSPizza\Shared\TabContainer.razor"
-       ChildContent
+       __builder2.AddContent(16, ChildContent
 
 #line default
 #line hidden

@@ -73,11 +73,19 @@ using SALSPizza.Shared
 #line 11 "C:\Gracela\Projects\SALSPizza\_Imports.razor"
 using System.Net.Http.Json
 
+#nullable disable
+    ;
+    #line default
+    #line hidden
+    [global::Microsoft.AspNetCore.Components.LayoutAttribute(typeof(
+#nullable restore
+#line 2 "C:\Gracela\Projects\SALSPizza\Pages\Index.razor"
+        MainLayout
+
 #line default
 #line hidden
 #nullable disable
-    ;
-    [global::Microsoft.AspNetCore.Components.LayoutAttribute(typeof(MainLayout))]
+    ))]
     [global::Microsoft.AspNetCore.Components.RouteAttribute(
     // language=Route,Component
 #nullable restore
@@ -99,6 +107,14 @@ using System.Net.Http.Json
             __builder.AddAttribute(1, "class", "main");
             __builder.OpenElement(2, "ul");
             __builder.AddAttribute(3, "class", "pizza-cards");
+#nullable restore
+#line 10 "C:\Gracela\Projects\SALSPizza\Pages\Index.razor"
+    
+
+#line default
+#line hidden
+#nullable disable
+
 #nullable restore
 #line 10 "C:\Gracela\Projects\SALSPizza\Pages\Index.razor"
      if (specials != null)
@@ -141,10 +157,9 @@ using System.Net.Http.Json
             __builder.AddAttribute(8, "class", "pizza-info");
             __builder.OpenElement(9, "span");
             __builder.AddAttribute(10, "class", "title");
-            __builder.AddContent(11, 
 #nullable restore
 #line 16 "C:\Gracela\Projects\SALSPizza\Pages\Index.razor"
-                               special.Name
+                               __builder.AddContent(11, special.Name
 
 #line default
 #line hidden
@@ -152,10 +167,9 @@ using System.Net.Http.Json
             );
             __builder.CloseElement();
             __builder.AddMarkupContent(12, "\r\n          ");
-            __builder.AddContent(13, 
 #nullable restore
 #line 17 "C:\Gracela\Projects\SALSPizza\Pages\Index.razor"
-           special.Description
+           __builder.AddContent(13, special.Description
 
 #line default
 #line hidden
@@ -164,10 +178,9 @@ using System.Net.Http.Json
             __builder.AddMarkupContent(14, "\r\n          ");
             __builder.OpenElement(15, "span");
             __builder.AddAttribute(16, "class", "price");
-            __builder.AddContent(17, 
 #nullable restore
 #line 18 "C:\Gracela\Projects\SALSPizza\Pages\Index.razor"
-                               special.GetFormattedBasePrice()
+                               __builder.AddContent(17, special.GetFormattedBasePrice()
 
 #line default
 #line hidden
@@ -245,6 +258,14 @@ using System.Net.Http.Json
             __builder.AddAttribute(23, "class", "sidebar");
 #nullable restore
 #line 35 "C:\Gracela\Projects\SALSPizza\Pages\Index.razor"
+    
+
+#line default
+#line hidden
+#nullable disable
+
+#nullable restore
+#line 35 "C:\Gracela\Projects\SALSPizza\Pages\Index.razor"
      if (order.Pizzas.Any())
     {
 
@@ -255,6 +276,14 @@ using System.Net.Http.Json
             __builder.OpenElement(24, "div");
             __builder.AddAttribute(25, "class", "order-contents");
             __builder.AddMarkupContent(26, "<h2>Your order</h2>");
+#nullable restore
+#line 40 "C:\Gracela\Projects\SALSPizza\Pages\Index.razor"
+            
+
+#line default
+#line hidden
+#nullable disable
+
 #nullable restore
 #line 40 "C:\Gracela\Projects\SALSPizza\Pages\Index.razor"
              foreach (var configuredPizza in order.Pizzas)
@@ -282,20 +311,18 @@ using System.Net.Http.Json
             __builder.AddMarkupContent(33, "\r\n                  ");
             __builder.OpenElement(34, "div");
             __builder.AddAttribute(35, "class", "title");
-            __builder.AddContent(36, 
 #nullable restore
 #line 44 "C:\Gracela\Projects\SALSPizza\Pages\Index.razor"
-                                       configuredPizza.Size
+                                       __builder.AddContent(36, configuredPizza.Size
 
 #line default
 #line hidden
 #nullable disable
             );
             __builder.AddContent(37, "\" ");
-            __builder.AddContent(38, 
 #nullable restore
 #line 44 "C:\Gracela\Projects\SALSPizza\Pages\Index.razor"
-                                                               configuredPizza.Special.Name
+                                                               __builder.AddContent(38, configuredPizza.Special.Name
 
 #line default
 #line hidden
@@ -305,10 +332,9 @@ using System.Net.Http.Json
             __builder.AddMarkupContent(39, "\r\n                  ");
             __builder.OpenElement(40, "div");
             __builder.AddAttribute(41, "class", "item-price");
-            __builder.AddContent(42, 
 #nullable restore
 #line 46 "C:\Gracela\Projects\SALSPizza\Pages\Index.razor"
-                       configuredPizza.GetFormattedTotalPrice()
+                       __builder.AddContent(42, configuredPizza.GetFormattedTotalPrice()
 
 #line default
 #line hidden
@@ -357,10 +383,9 @@ using System.Net.Http.Json
             __builder.AddMarkupContent(46, "\r\n        Total:\r\n        ");
             __builder.OpenElement(47, "span");
             __builder.AddAttribute(48, "class", "total-price");
-            __builder.AddContent(49, 
 #nullable restore
 #line 59 "C:\Gracela\Projects\SALSPizza\Pages\Index.razor"
-                                   order.GetFormattedTotalPrice()
+                                   __builder.AddContent(49, order.GetFormattedTotalPrice()
 
 #line default
 #line hidden

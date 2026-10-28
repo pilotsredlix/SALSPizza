@@ -76,12 +76,12 @@ namespace SALSPizza
 #line 11 "C:\Gracela\Projects\SALSPizza\_Imports.razor"
  using System.Net.Http.Json
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     #nullable restore
-    public partial class _Imports : System.Object
+    public partial class _Imports : object
     #nullable disable
     {
         #pragma warning disable 1998

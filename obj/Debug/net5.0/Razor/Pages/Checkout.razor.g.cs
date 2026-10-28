@@ -73,10 +73,10 @@ using SALSPizza.Shared
 #line 11 "C:\Gracela\Projects\SALSPizza\_Imports.razor"
 using System.Net.Http.Json
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Components.RouteAttribute(
     // language=Route,Component
 #nullable restore
@@ -88,7 +88,15 @@ using System.Net.Http.Json
 #nullable disable
     )]
     #nullable restore
-    public partial class Checkout : global::Microsoft.AspNetCore.Components.ComponentBase, IDisposable
+    public partial class Checkout : global::Microsoft.AspNetCore.Components.ComponentBase, 
+#nullable restore
+#line 5 "C:\Gracela\Projects\SALSPizza\Pages\Checkout.razor"
+            IDisposable
+
+#line default
+#line hidden
+#nullable disable
+
     #nullable disable
     {
         #pragma warning disable 1998
@@ -115,7 +123,7 @@ using System.Net.Http.Json
 #line hidden
 #nullable disable
             ))));
-            __builder.AddAttribute(5, "ChildContent", (global::Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Forms.EditContext>)((context) => (__builder2) => {
+            __builder.AddAttribute(5, "ChildContent", (global::Microsoft.AspNetCore.Components.RenderFragment<global::Microsoft.AspNetCore.Components.Forms.EditContext>)((context) => (__builder2) => {
                 __builder2.OpenElement(6, "div");
                 __builder2.AddAttribute(7, "class", "checkout-cols");
                 __builder2.OpenElement(8, "div");
@@ -137,6 +145,14 @@ using System.Net.Http.Json
                 __builder2.OpenElement(14, "div");
                 __builder2.AddAttribute(15, "class", "checkout-delivery-address");
                 __builder2.AddMarkupContent(16, "<h4>Deliver to...</h4>");
+#nullable restore
+#line 18 "C:\Gracela\Projects\SALSPizza\Pages\Checkout.razor"
+            
+
+#line default
+#line hidden
+#nullable disable
+
 #nullable restore
 #line 18 "C:\Gracela\Projects\SALSPizza\Pages\Checkout.razor"
              if (isError) {

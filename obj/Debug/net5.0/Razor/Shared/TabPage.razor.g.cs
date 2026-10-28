@@ -73,10 +73,10 @@ using SALSPizza.Shared
 #line 11 "C:\Gracela\Projects\SALSPizza\_Imports.razor"
 using System.Net.Http.Json
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     #nullable restore
     public partial class TabPage : global::Microsoft.AspNetCore.Components.ComponentBase
     #nullable disable
@@ -94,10 +94,9 @@ using System.Net.Http.Json
 #line hidden
 #nullable disable
 
-            __builder.AddContent(0, 
 #nullable restore
 #line 3 "C:\Gracela\Projects\SALSPizza\Shared\TabPage.razor"
-   ChildContent
+   __builder.AddContent(0, ChildContent
 
 #line default
 #line hidden

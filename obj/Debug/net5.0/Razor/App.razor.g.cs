@@ -73,10 +73,10 @@ using SALSPizza.Shared
 #line 11 "C:\Gracela\Projects\SALSPizza\_Imports.razor"
 using System.Net.Http.Json
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     #nullable restore
     public partial class App : global::Microsoft.AspNetCore.Components.ComponentBase
     #nullable disable
@@ -94,7 +94,7 @@ using System.Net.Http.Json
 #line hidden
 #nullable disable
             )));
-            __builder.AddAttribute(2, "Found", (global::Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.RouteData>)((routeData) => (__builder2) => {
+            __builder.AddAttribute(2, "Found", (global::Microsoft.AspNetCore.Components.RenderFragment<global::Microsoft.AspNetCore.Components.RouteData>)((routeData) => (__builder2) => {
                 __builder2.OpenComponent<global::Microsoft.AspNetCore.Components.RouteView>(3);
                 __builder2.AddAttribute(4, "RouteData", (object)(global::Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<global::Microsoft.AspNetCore.Components.RouteData>(
 #nullable restore

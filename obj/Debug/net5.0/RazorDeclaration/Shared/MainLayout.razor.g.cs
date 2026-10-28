@@ -76,12 +76,20 @@ using SALSPizza.Shared
 #line 11 "C:\Gracela\Projects\SALSPizza\_Imports.razor"
 using System.Net.Http.Json
 
+#nullable disable
+    ;
+    #line default
+    #line hidden
+    #nullable restore
+    public partial class MainLayout : 
+#nullable restore
+#line 1 "C:\Gracela\Projects\SALSPizza\Shared\MainLayout.razor"
+          LayoutComponentBase
+
 #line default
 #line hidden
 #nullable disable
-    ;
-    #nullable restore
-    public partial class MainLayout : LayoutComponentBase
+
     #nullable disable
     {
         #pragma warning disable 1998
